@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello, folks!👋
 
+ My name is Ramya TL. I'm from Bangalore
 <!--
 **Ramya-tl/Ramya-tl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
